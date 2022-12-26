@@ -1,6 +1,8 @@
+    <%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
      <footer class="footer bg-light">
                       <div class="card text-white bg-secondary my-5 py-4 text-center">
-                <div class="card-body"><p class="text-white m-0">This call to action card is a great place to showcase some important information or display a clever tagline!</p></div>
+                <div class="card-body"><p class="text-white m-0">부산 관광지 사이트</p></div>
             </div>
             <div class="container">
                 <div class="row">
@@ -9,7 +11,7 @@
                             <li class="list-inline-item"><a href="#!">About</a></li>
                             <li class="list-inline-item"></li>
                             <li class="list-inline-item"><a href="#!">Contact</a></li>
-                            <li class="list-inline-item">�</li>
+                            <li class="list-inline-item"></li>
                             <li class="list-inline-item"><a href="#!">Terms of Use</a></li>
                             <li class="list-inline-item"></li>
                             <li class="list-inline-item"><a href="#!">Privacy Policy</a></li>
